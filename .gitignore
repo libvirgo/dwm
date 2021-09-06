@@ -1,2 +1,4 @@
 config.h
 *.diff
+**/**/*.rej
+**/**/*.idea
